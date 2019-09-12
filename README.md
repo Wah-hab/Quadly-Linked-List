@@ -20,4 +20,4 @@ This project was built with:
 * Java
 
 # Credits
-Created by GitHub username, Wahhabe
+Created by GitHub username, Wah-hab
